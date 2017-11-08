@@ -1,0 +1,85 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Felix Urman, MD",
+        "hours": "9am - 5pm",
+        "phone": "(732) 246-9900",
+        "description": "75 Veronica Ave Suite 205, Somerset, NJ 08873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.496732,
+          40.484537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shazia Saif, MD",
+        "hours": "8am - 4pm",
+        "phone": "(732) 456-7777",
+        "description": "85 Raritan Ave, Highland Park, NJ 08904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4696348,
+          40.4984397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Dermatology Group",
+        "hours": "9am - 8pm",
+        "phone": "(732) 235-7993",
+        "description": "1 Worlds Fair Dr, Somerset, NJ 08873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5451838,
+          40.5359615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Jeffrey A. Rapaport",
+        "hours": "8am - 4pm",
+        "phone": "(732) 591-1700",
+        "description": "503 Raritan Ave, Highland Park, NJ 08904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4941817,
+          40.5007319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Princeton Dermatology Associates",
+        "hours": "8am - 4pm",
+        "phone": "(732) 297-8866",
+        "description": "1950 NJ-27, North Brunwswick Township, NJ 08902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5425074,
+          40.4601658
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/PS-Student/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.2.0-preview.aar/703af2b2e9bbe3dd429bcf919b59f26e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>

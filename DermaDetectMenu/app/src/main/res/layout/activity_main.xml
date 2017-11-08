@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#333f4c"
+    tools:context="com.example.ps_student.dermadetectmenu.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.527">
+
+        <ImageButton
+            android:id="@+id/diagnosisButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@null"
+            android:onClick="onClickQuickDiagnose"
+            app:srcCompat="@drawable/quick_diag_button_image"
+            tools:layout_editor_absoluteX="122dp"
+            tools:layout_editor_absoluteY="86dp" />
+
+        <ImageButton
+            android:id="@+id/findDermButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:background="@null"
+            android:onClick="onClickFindDerm"
+            app:srcCompat="@drawable/find_derm_button_image" />
+
+        <ImageButton
+            android:id="@+id/forumButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@null"
+            app:srcCompat="@drawable/forum_button_image" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.15"
+        app:srcCompat="@drawable/derma_detect_logo" />
+
+</android.support.constraint.ConstraintLayout>

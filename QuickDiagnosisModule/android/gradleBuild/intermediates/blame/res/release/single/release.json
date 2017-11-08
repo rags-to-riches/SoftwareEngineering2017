@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/layout_camera_connection_fragment.xml.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-xhdpi_ic_action_info.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/layout_activity_camera.xml.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-mdpi_ic_action_info.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-hdpi_ic_action_info.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-hdpi_tile.9.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/res/drawable-mdpi/ic_launcher.png"
+    }
+]

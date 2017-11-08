@@ -1,0 +1,4 @@
+#Thu Nov 02 19:01:48 EDT 2017
+base.0=/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Volumes/Windows10_Ext/SoftEngTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/release/0/classes.dex
